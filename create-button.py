@@ -7,4 +7,4 @@ button.pack()
 
 root.mainloop()
 
-#"Button" creates the button 
+#"Button" creates the button widget
